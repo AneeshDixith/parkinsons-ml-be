@@ -1,6 +1,6 @@
-## Parkinsons Back End For a Machine Learning Model
+# Parkinsons Back End For a Machine Learning Model
 
-# How to run
+## How to run
 1. Clone the repository using `git clone`.
 2. Install the dependancies.
 3. Navigate to the folder in the terminal.
